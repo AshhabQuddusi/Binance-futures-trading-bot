@@ -1,0 +1,16 @@
+2026-04-21 18:17:37 | INFO     | trading_bot.orders | MARKET ORDER  symbol=BTCUSDT  side=BUY  qty=0.001
+2026-04-21 18:17:37 | INFO     | trading_bot.client | Placing order: symbol=BTCUSDT  side=BUY  type=MARKET  qty=0.001  price=N/A
+2026-04-21 18:17:38 | ERROR    | trading_bot.client | API error  code=-2019  msg=Margin is insufficient.
+2026-04-21 18:17:38 | ERROR    | trading_bot.cli | API error: [HTTP 400] Binance error -2019: Margin is insufficient.
+2026-04-21 18:17:42 | INFO     | trading_bot.orders | LIMIT ORDER  symbol=BTCUSDT  side=SELL  qty=0.001  price=100000  tif=GTC
+2026-04-21 18:17:42 | INFO     | trading_bot.client | Placing order: symbol=BTCUSDT  side=SELL  type=LIMIT  qty=0.001  price=100000
+2026-04-21 18:17:43 | ERROR    | trading_bot.client | API error  code=-2019  msg=Margin is insufficient.
+2026-04-21 18:17:43 | ERROR    | trading_bot.cli | API error: [HTTP 400] Binance error -2019: Margin is insufficient.
+2026-04-21 18:17:53 | INFO     | trading_bot.orders | MARKET ORDER  symbol=BTCUSDT  side=BUY  qty=0.001
+2026-04-21 18:17:53 | INFO     | trading_bot.client | Placing order: symbol=BTCUSDT  side=BUY  type=MARKET  qty=0.001  price=N/A
+2026-04-21 18:17:54 | ERROR    | trading_bot.client | API error  code=-2019  msg=Margin is insufficient.
+2026-04-21 18:17:54 | ERROR    | trading_bot.cli | API error: [HTTP 400] Binance error -2019: Margin is insufficient.
+2026-04-21 18:18:26 | INFO     | trading_bot.orders | LIMIT ORDER  symbol=BTCUSDT  side=SELL  qty=0.001  price=100000  tif=GTC
+2026-04-21 18:18:26 | INFO     | trading_bot.client | Placing order: symbol=BTCUSDT  side=SELL  type=LIMIT  qty=0.001  price=100000
+2026-04-21 18:18:26 | ERROR    | trading_bot.client | API error  code=-2019  msg=Margin is insufficient.
+2026-04-21 18:18:26 | ERROR    | trading_bot.cli | API error: [HTTP 400] Binance error -2019: Margin is insufficient.
