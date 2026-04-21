@@ -228,11 +228,16 @@ requests>=2.31.0   # HTTP client with retry support
 
 Only stdlib + `requests` — no Binance SDK dependency, giving full control over the request/response cycle.
 
+## 👨‍💻 Author
 
-👨‍💻 Author
-Ashhab Quddusi
-LinkedIn: www.linkedin.com/in/ashhab-quddusi
-GitHub: https://github.com/AshhabQuddusi?tab=repositories
+**Ashhab Quddusi**
 
-⭐ Support
+* LinkedIn: www.linkedin.com/in/ashhab-quddusi
+* GitHub: https://github.com/AshhabQuddusi?tab=repositories
+
+
+---
+
+## ⭐ Support
+
 If you found this project helpful, consider giving it a star on GitHub!
