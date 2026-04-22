@@ -108,13 +108,13 @@ Examples:
 
     creds.add_argument(
     "--api-key",
-    default="JmZtpWRUZVM6b7PUKnp4txpz1BCvyO6RJKfVU2sYTXpgKmeNA18KldhPeD9FyNHp",
+    default="YOUR_API_KEY",        # Write Your Own API Key Here
     help="Binance Futures Testnet API key",
 )
 
     creds.add_argument(
     "--api-secret",
-    default="YFz3XrD5dMwVm3CgrBfRuG5tvF20c1YawPjTQRCRha6IPCbVYGZhBwHpdMdlD6Qq",
+    default="YOUR_SECRET_KEY",     # Write Your Own SECRET Key Here
     help="Binance Futures Testnet API secret",
 )
 
